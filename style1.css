@@ -166,7 +166,6 @@ body {
     text-align: center;
     display: flex;
     flex-wrap: wrap;;
-    padding-left: 250px;
     justify-items: center;
     align-items: center;
     margin-left:100px;
@@ -194,21 +193,21 @@ body {
 }
 
 .features {
-    background-image: url(../pics/347317299795.jpg);
+    background-image: url(./pics/347317299795.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 }
 
 .about {
-    background-image: url(../pics/2163.jpg);
+    background-image: url(./pics/2163.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
 }
 
 .footer {
-    background-image: url(../pics/347317299795.jpg);
+    background-image: url(./pics/347317299795.jpg);
     background-color: rgba(0, 0, 0, 0.7);
     background-repeat: no-repeat;
     background-attachment: fixed;
